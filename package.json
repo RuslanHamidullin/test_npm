@@ -1,6 +1,6 @@
 {
   "name": "test_couch_plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test Couch Plugin",
   "main": "index.js",
   "scripts": {

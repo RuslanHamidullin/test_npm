@@ -1,0 +1,16 @@
+function DaemonSettings() {
+  var credentials = {
+    postgres: {
+      database: "testdb",
+      username: "postgres",
+      host: "localhost"
+    },
+    couchdb: {
+      url: 'http://127.0.0.1:5984'
+    }
+  };
+
+  return credentials;
+};
+
+module.exports = DaemonSettings;
